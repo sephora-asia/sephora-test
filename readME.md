@@ -9,7 +9,7 @@ You can write your code in the language of your choice. The most commonly used l
 Please organise your code, document it and write relevant unit tests.
 Ensure you have a local setup that can be easily run.
 
-Create a private Github repository for your submission, share with @auvalade and @hese1
+Create a private Github repository for your submission, share with @brega and @hese1
 
 ## Context
 
